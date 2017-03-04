@@ -20,7 +20,7 @@ TC$temps_debut=as.numeric(as.character(TC$temps_debut))
 TC$temps_fin=as.numeric(as.character(TC$temps_fin))
 TC$frequence=as.numeric(as.character(TC$frequence))
 
-library(Hmisc) # charge une bibliothèque de fonction pour les appariements
+library(Hmisc) # charge une bibliothÃ¨que de fonction pour les appariements
 
 # Specify the directory where the files (*.TA) are stored
 DirCri="C:/Users/Fabien/Documents/PhD_Nat_MNHN_Inst_All/GitHub/ta" 
@@ -75,7 +75,7 @@ for(i in 1:nrow(TC0))
   TempsCriDtot=vector()
   TempsCriG=vector()
   # The detected cries are isolated on the left microphone corresponding to the contact
-  CriFichier=read.table(paste(DirCri,"/",TC0$donnee[i],".ta",sep=""),h=T,sep="\t") #nom du champ à ajuster
+  CriFichier=read.table(paste(DirCri,"/",TC0$donnee[i],".ta",sep=""),h=T,sep="\t") #nom du champ Ã  ajuster
   # Select the cries (on TA) that interests us between two values, that is to say between the beginning and the end of a contact (on TC)
   CriFilTemps=subset(CriFichier 
                      ,(CriFichier$StTime>(TC0$temps_debut[i]*1000))
@@ -103,7 +103,7 @@ for(i in 1:nrow(TC0))
                              &((CriFilTempsD$Fmin+CriFilTempsD$BW)>(TC1$frequence[TC01$matches[i,j]])))
           CriFilEchoD=subset(CriFilFreqD,
                              (CriFilFreqD$PrevMP2>35))
-          TempsCriD=TC1$Heure[TC01$matches[i,j]]*3600+TC1$Minute[TC01$matches[i,j]]*60+TC1$Seconde[TC01$matches[i,j]]+TC1$MiliSec[TC01$matches[i,j]]/1000+CriFilEchoD$StTime/1000 		#temps macro du début du cri côté droit
+          TempsCriD=TC1$Heure[TC01$matches[i,j]]*3600+TC1$Minute[TC01$matches[i,j]]*60+TC1$Seconde[TC01$matches[i,j]]+TC1$MiliSec[TC01$matches[i,j]]/1000+CriFilEchoD$StTime/1000 		#temps macro du dÃ©but du cri cÃ´tÃ© droit
           if(j==1){TempsCriDtot=TempsCriD}else{TempsCriDtot=c(TempsCriDtot,TempsCriD)}
         }
       }
