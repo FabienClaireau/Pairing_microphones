@@ -7,3 +7,8 @@ In order to test the script, you need to download the file :
 "SpeciesList.csv",
 the zip folder named "TA"
 and the script R.
+
+
+This work has been supported by : Naturalia environnement (Avignon, France), Muséum national d'Histoire naturelle (Paris, France) and University of Greifswald (Greifswald, Germany)
+
+Please acknowledge this in your papers if you use this script 
