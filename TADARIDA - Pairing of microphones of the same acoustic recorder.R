@@ -20,7 +20,7 @@ TC$temps_debut=as.numeric(as.character(TC$temps_debut))
 TC$temps_fin=as.numeric(as.character(TC$temps_fin))
 TC$frequence=as.numeric(as.character(TC$frequence))
 
-library(Hmisc) # charge une bibliothèque de fonction pour les appariements
+library(Hmisc) # Loads a function library for pairings
 
 # Specify the directory where the files (*.TA) are stored
 DirCri="C:/Users/Fabien/Documents/PhD_Nat_MNHN_Inst_All/GitHub/ta" 
@@ -75,7 +75,7 @@ for(i in 1:nrow(TC0))
   TempsCriDtot=vector()
   TempsCriG=vector()
   # The detected cries are isolated on the left microphone corresponding to the contact
-  CriFichier=read.table(paste(DirCri,"/",TC0$donnee[i],".ta",sep=""),h=T,sep="\t") #nom du champ à ajuster
+  CriFichier=read.table(paste(DirCri,"/",TC0$donnee[i],".ta",sep=""),h=T,sep="\t") # Name of the field to adjust
   # Select the cries (on TA) that interests us between two values, that is to say between the beginning and the end of a contact (on TC)
   CriFilTemps=subset(CriFichier 
                      ,(CriFichier$StTime>(TC0$temps_debut[i]*1000))
