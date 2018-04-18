@@ -2,13 +2,13 @@
 rm(list = ls())
 
 # Working directory
-setwd("") # mettre le chemin où se trouvent vos tables (fichiers excels, etc (ATTENTION mettre des "/" et non des "\")
+setwd("")
 
 TimeDeb=Sys.time()
 
 # Opening the table containing all the data (export of TADARIDA)
 library(data.table)
-DataTot=fread("") # mettez le nom de votre fichier qui contient vos données d'observations de chauves-souris + l'extension du fichier (.txt ou .csv)
+DataTot=fread("")
 head(DataTot)
 colnames(DataTot)[10]="temps_fin"
 
