@@ -1,0 +1,212 @@
+Esp;Nesp;France;Turquie;Espagne;Norfolk;Scientific name;Group
+Aegcau;piaf;x;x;x;x;Aegithalos caudatus;bird
+Alcatt;piaf;x;x;x;x;Alcedo atthis;bird
+Antius;Antius;x;;x;;Antaxius spinibrachius;bush-cricket
+Antped;Antped;x;;;;Antaxius pedestris;bush-cricket
+Antpet;piaf;x;x;;;Anthus petrosus;bird
+Antsor;Antsor;x;;;;Antaxius sorrezensis;bush-cricket
+Apoagr;Aposp;x;;;;Apodemus agrarius;other mammal
+Apofla;Aposp;x;x;x;;Apodemus flavicollis;other mammal
+Aposyl;Aposp;x;x;x;x;Apodemus sylvaticus;other mammal
+Apuapu;piaf;x;x;x;x;Apus apus;bird
+Barbar;Barbar;x;x;x;x;Barbastella barbastellus;bat
+Barfis;Barfis;x;;;;Barbitistes fischeri;bush-cricket
+Barsan;Barsan;x;;x;;Barbitistes 'sanzii';bush-cricket
+Barser;Barser;x;;x;;Barbitistes serricauda;bush-cricket
+Bicbic;Bicbic;x;;x;;Bicolorana bicolor;bush-cricket
+buzz;noise;x;x;x;x;insect wingbeats;noise
+car;noise;x;x;x;x;vehicle;noise
+Carcar;piaf;x;x;x;x;Carduelis carduelis;bird
+Cerbra;piaf;x;x;x;x;Certhia brachydactyla;bird
+Cetcet;piaf;x;x;x;x;Cettia cettia;bird
+chirp;chirp;x;;;;chirp;noise
+Chlchl;piaf;x;x;x;x;Chloris chloris;bird
+Chovag;criq;x;x;x;x;Chorthippus vagans;grasshopper
+Cicatr;Cicatr;x;x;x;;Cicadatra atra;cicada
+Cicorn;Cicorn;x;x;x;;Cicada orni;cicada
+Cisjun;piaf;x;x;x;x;Cisticola juncidis;bird
+Concon;Concon;x;x;x;;Conocephalus conocephalus;bush-cricket
+Condor;Condor;x;x;x;x;Conocephalus dorsalis;bush-cricket
+Confus;Confus;x;;x;x;Conocephalus fuscus;bush-cricket
+Corcho;Corcho;x;;;;Corsteropleurus chopardi;bush-cricket
+Cornix;piaf;x;x;x;x;Corvus cornix;bird
+Crorus;Mussp;x;x;x;x;Crocidura russula;other mammal
+Cyacae;piaf;x;x;x;x;Cyanistes caerulea;bird
+Cympud;Cympud;x;;x;;Cymbalophora pudica;moth
+Cyrscu;Cyrscu;x;;x;;Cyrtaspis scutatus;bush-cricket
+Decalb;Decalb;x;x;x;;Decticus albifrons;bush-cricket
+Denmaj;piaf;x;x;x;x;Dendrocopos major;bird
+elec;noise;x;x;x;x;electronical noise;noise
+Embcae;piaf;x;x;x;x;Emberiza caesia;bird
+Embcal;piaf;x;x;x;x;Emberiza calandra;bird
+Embcir;piaf;x;x;x;x;Emberiza cirlus;bird
+Embcit;piaf;x;x;x;x;Emberiza citrinella;bird
+Epheph;Epheph;x;;x;;Ephippiger ephippiger;bush-cricket
+Eptana;Eptana;;x;;;Eptesicus anatolicus;bat
+Eptisa;Eptisa;;;x;;Eptesicus isabellinus;bat
+Eptnil;Eptnil;x;;x;;Eptesicus nilssonii;bat
+Eptser;Eptser;x;x;x;x;Eptesicus serotinus;bat
+Erirub;piaf;x;x;x;x;Erithacus rubecula;bird
+Euccho;criq;x;x;x;x;Euchorthippus chopardii;grasshopper
+Eumbor;gril;x;x;x;;Eumodycogryllus bordigalensis;ground-cricket
+Eupcha;Eupsp;x;x;;;Eupholidoptera chabrieri;bush-cricket
+Euptyr;Eupsp;x;x;x;;Eupholidoptera thyrenaica;bush-cricket
+Fricoe;piaf;x;x;x;x;Fringilla coelebs;bird
+gril;gril;x;x;x;x;Gryllidae sp.;ground-cricket
+Grycam;gril;x;x;x;;Gryllus campestris;ground-cricket
+Homsap;mamm;x;x;x;x;Homo sapiens;other mammal
+Hylmer;amph;x;;x;;Hyla meridionalis;frog
+Hypsav;Hypsav;x;x;x;;Hypsugo savii;bat
+Insp10;Insp10;x;x;x;x;Insect sp.10;insect
+Insp11;Insp11;x;x;x;x;Insect sp.11;insect
+Insp12;Insp12;x;x;x;x;Insect sp.12;insect
+Inssp1;Inssp1;x;;x;x;Insect sp.1;insect
+Inssp2;Inssp2;x;;x;x;Insect sp.2;insect
+Inssp5;Inssp5;x;;x;x;Insect sp.5;insect
+Inssp6;Inssp6;x;;x;x;Insect sp.6;insect
+Inssp7;Inssp7;x;;x;x;Insect sp.7;insect
+Inssp8;Inssp8;x;x;x;x;Insect sp. 8;insect
+Inssp9;Inssp9;x;x;x;x;Insect sp. 9;insect
+InsTu1;InsTu1;;x;;;Insect sp. from Turkey 1;insect
+Isopyr;Isopyr;x;x;x;;Isophya pyrenea;bush-cricket
+Lamsp.;Lamsp.;x;x;x;x;Lampyris sp.;beetle
+Lepalb;Lepalb;x;x;;;Leptophyes albovittata;bush-cricket
+Lepbos;Lepbos;x;;;;Leptophyes boscii;bush-cricket
+Leppun;Leppun;x;;x;x;Leptophyes punctatissima;bush-cricket
+Llusta;Llusta;;;x;;Lluciapomaresius stalii;bush-cricket
+Lopcri;piaf;x;x;x;x;Lophophanes cristatus;bird
+Lusmeg;piaf;x;x;x;x;Luscinia megarhynchos;bird
+Lyrple;Lyrple;x;x;x;;Lyristes plebejus;cicada
+mec;noise;x;x;x;x;mechanical noise;noise
+Metbra;Metbra;x;;;x;Metrioptera brachyptera;bush-cricket
+Metsau;Metsau;x;x;x;;Metrioptera saussuriana;bush-cricket
+Micagr;Micagr;x;x;x;x;Microtus agrestis;other mammal
+Minsch;Minsch;x;x;x;;Miniopterus schreibersii;bat
+Mmasp1;mamm;x;x;x;x;micromammals sp.1;other mammal
+Mmasp2;mamm;x;x;x;x;micromammals sp.2;other mammal
+Mmasp3;mamm;x;x;x;x;micromammals sp.3;other mammal
+Mmasp4;mamm;x;x;x;x;micromammals sp.4;other mammal
+MmaTu1;mamm;x;x;x;;micromammals sp. from Turkey 1;other mammal
+Motcin;piaf;x;x;x;x;Motacilla cinerea;bird
+Motfla;piaf;x;x;x;x;Motacilla flava;bird
+Mussp;Mussp;x;x;x;x;Soricidae sp.;other mammal
+Myoalc;Myoalc;x;x;x;x;Myotis alcathoe;bat
+Myobec;Myobec;x;x;x;x;Myotis bechsteinii;bat
+Myobly;MyoGT;x;x;x;;Myotis blythii;bat
+Myobra;Myobra;x;x;;x;Myotis brandtii;bat
+Myocap;Myocap;x;x;x;;Myotis capaccinii;bat
+Myodas;Myodas;x;x;;;Myotis dasycneme;bat
+Myodau;Myodau;x;x;x;x;Myotis daubentonii;bat
+Myoema;Myoema;x;x;x;x;Myotis emarginatus;bat
+Myomyo;MyoGT;x;x;x;;Myotis myotis;bat
+Myomys;Myomys;x;x;x;x;Myotis mystacinus;bat
+Myonat;Myonat;x;x;;x;Myotis nattereri;bat
+MyospA;Myonat;x;x;x;x;Myotis sp. A ('southern' Natterer);bat
+noise;noise;x;x;x;x;noise;noise
+Nyclas;Nyclas;x;x;x;;Nyctalus lasiopterus;bat
+Nyclei;Nyclei;x;x;x;x;Nyctalus leisleri;bat
+Nycnoc;Nycnoc;x;x;x;x;Nyctalus noctula;bat
+Odomac;Odomac;;;x;;Odontura macphersoni;bush-cricket
+Omovir;criq;x;x;x;x;Omocestus viridulus;grasshopper
+Oriori;piaf;x;x;x;x;Oriolus oriolus;bird
+Ortsp.;Ortsp.;x;x;x;x;Orthoptera sp.;insect
+Panbia;piaf;x;x;x;x;Panurus biarmicus;bird
+Parmaj;piaf;x;x;x;x;Parus major;bird
+Pasdom;piaf;x;x;x;x;Passer domesticus;bird
+Pelbed;amph;x;x;x;x;Pelophylax bedriagae;frog
+Pelgra;amph;x;;x;;Pelophylax grafi;frog
+Pelrid;amph;x;x;x;x;Pelophylax ridibundus;frog
+Perate;piaf;x;x;x;x;Periparus ater;bird
+Phafal;Phafal;x;x;x;;Phaneroptera falcata;bush-cricket
+Phanan;Phanan;x;x;x;;Phaneroptera nana;bush-cricket
+Phofem;Phofem;x;x;;;Pholidoptera femorata;bush-cricket
+Phogri;Phogri;x;x;x;x;Pholidoptera griseoaptera;bush-cricket
+Phopho;piaf;x;x;x;x;Phoenicurus phoenicurus;bird
+Phycol;piaf;x;x;x;x;Phylloscopus collybita;bird
+Picpic;piaf;x;x;x;x;Pica pica;bird
+Pipkuh;Pipkuh;x;x;x;x;Pipistrellus kuhlii;bat
+Pipmad;Pipmad;;;;;Pipistrellus madeirensis;bat
+Pipnat;Pipnat;x;x;x;x;Pipistrellus nathusii;bat
+Pippip;Pippip;x;x;x;x;Pipistrellus pipistrellus;bat
+Pippyg;Pippyg;x;x;x;x;Pipistrellus pygmaeus;bat
+Plaaff;Plaaff;x;;x;;Platycleis affinis;bush-cricket
+Plaalb;Plaalb;x;;x;x;Platycleis albopunctata;bush-cricket
+Plafal;Plafal;x;;x;;Platycleis falx;bush-cricket
+Plaibe;Plaibe;;;x;;Platycleis iberica;bush-cricket
+Plaint;Plaint;x;;x;;Platycleis intermedia;bush-cricket
+Plasab;Plasab;x;;x;;Platycleis sabulosa;bush-cricket
+Pleaur;Pleaur;x;;x;x;Plecotus auritus;bat
+Pleaus;Pleaus;x;;x;x;Plecotus austriacus;bat
+Plebeg;Pleaur;x;;x;x;Plecotus begoniae;bat
+Plekol;Plekol;;x;;;Plecotus kolombatovici;bat
+Plemac;Plemac;x;x;x;;Plecotus macrobullaris;bat
+Poepal;piaf;x;x;x;x;Poecilus palustris;bird
+Prumod;piaf;x;x;x;x;Prunella modularis;bird
+Ptebon;Ptebon;x;;;;Pterolepis bonfilsi;bush-cricket
+Ptecor;Ptecor;x;;;;Pterolepis corsicana;bush-cricket
+Pteger;Pteger;x;x;;;Pterolepis germanica;bush-cricket
+Ptegra;Ptegra;;x;x;;Pterolepis grallata;bush-cricket
+Ptehey;gril;x;x;x;;Pteronemobius heydenii;ground-cricket
+Ptepon;Ptepon;x;x;x;;Pterolepis poneli;bush-cricket
+Pycgos;piaf;x;x;x;;Pycnonotus xanthopygos;bird
+Pycjug;Pycjug;;;x;;Pycnogaster jugicola;bush-cricket
+rain;noise;x;x;x;x;rain;noise
+Ratnor;Ratnor;x;x;x;x;Rattus norvegicus;other mammal
+Regign;piaf;x;x;x;x;Regulus ignicapillus;bird
+Regreg;piaf;x;x;x;x;Regulus regulus;bird
+Rhibla;Rhibla;;x;;;Rhinolophus blasii;bat
+Rhieur;Rhieur;x;x;x;;Rhinolophus euryale;bat
+Rhifer;Rhifer;x;x;x;x;Rhinolophus ferrumequinum;bat
+Rhihip;Rhihip;x;x;x;x;Rhinolophus hipposideros;bat
+Rhimeh;Rhimeh;;x;x;;Rhinolophus mehelyi;bat
+river;noise;x;x;x;x;watercourse;noise
+RodTu1;mamm;x;x;x;;Rodentia sp. from Turkey 1;other mammal
+Roeroe;Roeroe;x;x;x;x;Roeseliana roeselii;bush-cricket
+Rusnit;Rusnit;x;x;x;x;Ruspolia nitidula;bush-cricket
+SauIn1;SauIn1;;;;;Tettigoniidae sp. from India 1;bush-cricket
+SauIn2;SauIn2;;;;;Tettigoniidae sp. from India 2;bush-cricket
+SauIn3;SauIn3;;;;;Tettigoniidae sp. from India 3;bush-cricket
+SauTu4;SauTu4;;x;;;Tettigoniidae sp. from Turkey 4;bush-cricket
+SauTu5;SauTu5;;x;;;Tettigoniidae sp. from Turkey 5;bush-cricket
+SauTu6;SauTu6;;x;;;Tettigoniidae sp. from Turkey 6;bush-cricket
+SauTu7;SauTu7;;x;;;Tettigoniidae sp. from Turkey 7;bush-cricket
+SauTurquiesp1;SauTurquiesp1;;x;;;Tettigoniidae sp. from Turkey 1;bush-cricket
+SauTurquiesp2;SauTurquiesp2;;x;;;Tettigoniidae sp. from Turkey 2;bush-cricket
+SauTurquiesp3;SauTurquiesp3;;x;;;Tettigoniidae sp. from Turkey 3;bush-cricket
+Sepsep;Sepsep;x;;x;;Sepiana sepium;bush-cricket
+Serser;piaf;x;x;x;x;Serinus serinus;bird
+Siteur;piaf;x;x;x;x;Sitta europaea;bird
+Sorcor;Mussp;x;x;x;x;Soricinus coronatus;bush-cricket
+Stralu;piaf;x;x;x;x;Strix aluco;bird
+Strdec;piaf;x;x;x;;Streptopelia decaocto;bird
+Stuvul;piaf;x;x;x;x;Sturnus vulgaris;bird
+Sylatr;piaf;x;x;x;x;Sylvia atricapilla;bird
+Sylcom;piaf;x;x;x;x;Sylvia communis;bird
+Sylmel;piaf;x;x;x;x;Sylvia melanocephala;bird
+Tadten;Tadten;x;x;x;;Tadarida teniotis;bat
+Tesori;Tesori;;;;;Tessellana orina;bush-cricket
+Testes;Testes;x;x;x;;Tessellana tessellata;bush-cricket
+Tetarg;Tetarg;x;;x;;Tettigetta argentata;cicada
+Tetcan;Tetcan;x;x;x;;Tettigonia cantans;bush-cricket
+Tethis;Tethis;;;x;;Tettigonia hispanica;bush-cricket
+Tetpyg;Tetpyg;x;;x;;Tettigetta pygmea;cicada
+Tetvir;Tetvir;x;x;x;x;Tettigonia viridissima;bush-cricket
+Thycor;Thycor;x;;x;;Thyreonotus corsicus;bush-cricket
+Trotro;piaf;x;x;x;x;Troglodytes troglodytes;bird
+Turmer;piaf;x;x;x;x;Turdus merula;bird
+Turphi;piaf;x;x;x;x;Turdus philomelos;bird
+Tyllil;Tyllil;x;x;x;;Tylopsis lilifolia;bush-cricket
+Urobre;Urobre;x;;;;Uromenus brevicollis;bush-cricket
+Urorug;Urorug;x;;x;;Uromenus rugosicollis;bush-cricket
+Vesmur;Vesmur;x;x;x;;Vespertilio murinus;bat
+wind;noise;x;x;x;x;wind;noise
+Yerbey;Yerbey;x;;;;Yersinella beybienkoi;bush-cricket
+Yerray;Yerray;x;;x;;Yersinella raymondii;bush-cricket
+Zeuabb;Zeuabb;x;;x;;Zeuneriana abbreviata;bush-cricket
+criq;criq;x;x;x;x;Caelifera sp.;grasshopper
+Aposp;Aposp;x;x;x;x;Apodemus sp.;other mammal
+amph;amph;x;x;x;x;Amphibia sp.;frog
+Eupsp;Eupsp;x;x;;;Eupholidoptera sp.;bush-cricket
+mamm;mamm;x;x;x;x;Mammalia sp.;other mammal
+MyoGT;MyoGT;x;x;x;x;Myotis cf. myotis;bat
+piaf;piaf;x;x;x;x;Aves sp.;bird
