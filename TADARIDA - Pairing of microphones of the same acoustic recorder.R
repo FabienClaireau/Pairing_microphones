@@ -146,7 +146,9 @@ for (q in 1:nrow(ListDir))
                   Int50=quantile(Int,0.5)
                   Int25=quantile(Int,0.25)
                   Trajtemp=c(as.character(TC0$participation[i])
-                             ,as.character(TC0$donnee[i]),as.character(TC0$espece[i])
+                             ,as.character(TC0$donnee[i])
+                             ,as.character(TC1$donnee[TC01$matches[i,1]])
+                             ,as.character(TC0$espece[i])
                              ,as.numeric(as.character(TC0$probabilite[i]))
                              ,as.character(TC0$temps_debut[i]),as.character(TC0$temps_fin[i])
                              ,DecDeb,DecFin,Dec10,Dec90,DecMin,DecMax,Int50,Int25)
@@ -162,7 +164,10 @@ for (q in 1:nrow(ListDir))
     } 
 } 
 
-colnames(TrajTot)=c("Participation","File","Species","Prob","tdeb","tfin","DecDeb","DecFin","Dec10","Dec90","DecMin","DecMax","Int50","Int25")
+TrajTot=as.data.frame(TrajTot)
+
+colnames(TrajTot)=c("participation","File0","File1","espece","probabilite","temps_debut","temps_fin","DecDeb","DecFin"
+                    ,"Dec10","Dec90","DecMin","DecMax","Int50","Int25")
 TimeFin=Sys.time()
 TimeTot=TimeDeb-TimeFin
 
@@ -175,4 +180,24 @@ write.csv2(PartManquantes,"Part_Manq.csv")
 
 # Bad working directory of *.TA file
 write.csv2(DirCriMauvais,"DirCriMauvais.csv")
+
+# File containing TDOA
 write.csv2(TrajTot,"TrajTot.csv")
+
+# For wind project
+TC0=subset(TC,micro=="0")
+colnames(TC0)[3]="File0"
+ColSel=subset(colnames(TrajTot),colnames(TrajTot) %in% names(TC0))
+TC0=subset(TC0,select=ColSel)
+TC0Mono=subset(TC0,!(paste(TC0$File0,TC0$espece) %in% paste(TrajTot$File0,TrajTot$espece)))
+  
+TC1=subset(TC,micro=="1")
+colnames(TC1)[3]="File1"
+ColSel=subset(colnames(TrajTot),colnames(TrajTot) %in% names(TC1))
+TC1=subset(TC1,select=ColSel)
+TC1Mono=subset(TC1,!(paste(TC1$File1,TC1$espece) %in% paste(TrajTot$File1,TrajTot$espece)))
+
+DataTrajMono=rbindlist(list(TrajTot,TC0Mono,TC1Mono),use.names=T,fill=T)
+
+# File containing cries just on one channel
+write.csv2(DataTrajMono,"DataTrajMono.csv",row.names=F)
