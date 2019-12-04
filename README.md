@@ -2,7 +2,7 @@
 
 The purpose of this R script is to be able to pair two microphones connected on the same acoustic recorder and to locate the position of bats (direction in particular).
 
-1/ Use the script here. Then, if you want define a bat crossing event, you have a two choices : if you have synchronized acoustic recorders: go to 2a, if you have non-synchronized acoustic recorders: go to 2b
+1/ Use the script here. Then, if you want define a bat crossing event, you have a two choices : if you have synchronized acoustic recorders: go to 2b, if you have non-synchronized acoustic recorders: go to 2a
 
 2a/ If you want define bat crossings and if you use 2 acoustic recorder non-synchronized, you must use:
 https://github.com/FabienClaireau/Automatic_calculation_of_the_time_shift
